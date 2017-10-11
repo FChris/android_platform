@@ -1,0 +1,18 @@
+[submodule "android_platform_packages_apps_TaintViolationTester"]
+	path = android_platform_packages_apps_TaintViolationTester
+	url = git@github.com:FChris/android_platform_packages_apps_TaintViolationTester.git
+[submodule "android_platform_frameworks_base"]
+	path = android_platform_frameworks_base
+	url = git@github.com:FChris/android_platform_frameworks_base.git
+[submodule "android_platform_packages_apps_TaintDroidNotify"]
+	path = android_platform_packages_apps_TaintDroidNotify
+	url = git@github.com:FChris/android_platform_packages_apps_TaintDroidNotify.git
+[submodule "android_platform_dalvik"]
+	path = android_platform_dalvik
+	url = git@github.com:FChris/android_platform_dalvik.git
+[submodule "android_platform_gengpio_hal"]
+	path = android_platform_gengpio_hal
+	url = git@github.com:FChris/android_platform_gengpio_hal.git
+[submodule "android_platform_libcore"]
+	path = android_platform_libcore
+	url = git@github.com:FChris/android_platform_libcore.git
