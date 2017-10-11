@@ -16,3 +16,6 @@
 [submodule "android_platform_libcore"]
 	path = android_platform_libcore
 	url = git@github.com:FChris/android_platform_libcore.git
+[submodule "android_platform_sdk"]
+	path = android_platform_sdk
+	url = https://github.com/FChris/android_platform_sdk.git
